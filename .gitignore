@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# 忽略JetBrains IDE（PyCharm等）的配置目录
+.idea/
+
+*.iml  # 忽略单独的iml模块文件（如test1.iml）
